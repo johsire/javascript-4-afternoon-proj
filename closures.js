@@ -100,7 +100,7 @@ function counterFactory(value) {
 
   dec: function() {
     return -- value;
-    
+
     }
   };
 }
@@ -110,8 +110,6 @@ counter.inc() // 11
 counter.inc() // 12
 counter.inc() // 13
 counter.dec() // 12
-
-
 
 ////////// PROBLEM 5 //////////
 
